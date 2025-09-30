@@ -11,12 +11,27 @@ A Tkinter watermark application made by Talal Shreidi.
 - **Position Control**: 5 position options (center, corners)
 - **Opacity Control**: Adjust transparency (0-100%)
 
+### Example Text Screenshots:
+
+<img width="1096" height="725" alt="textwatermark" src="https://github.com/user-attachments/assets/2d15ff10-cb02-4771-a067-24103dd15167" />
+
+<img width="1091" height="726" alt="textwatermarkoutput" src="https://github.com/user-attachments/assets/3ecf52bd-537a-43ff-9e70-86bfbbcfd51a" />
+
+
+
 ### Image Watermarks
 - **Logo Support**: Add PNG/JPG logos as watermarks
 - **Scale Control**: Resize from 5% to 100% of original
 - **Position Control**: Place anywhere on the image
 - **Opacity Control**: Semi-transparent overlays
 - **Format Support**: PNG, JPG, JPEG, BMP, TIFF, GIF
+
+### Example Image Watermark Screenshots:
+
+<img width="1095" height="727" alt="imagewatermark" src="https://github.com/user-attachments/assets/44a6884b-1945-4253-97c5-fdff2ca890b3" />
+
+<img width="1093" height="729" alt="imagewatermarkoutput" src="https://github.com/user-attachments/assets/4b824e6b-2ef8-48aa-8a39-35dbf2b9004f" />
+
 
 ### User Interface
 - **Before/After Preview**: See original and watermarked side by side
@@ -53,16 +68,16 @@ A Tkinter watermark application made by Talal Shreidi.
 5. Click **"Apply Image Watermark"**
 6. Click **"Save Image"** to export
 
-## 🎯 Perfect Settings for Great Results (Now Default!)
+## 🎯 Perfect Settings for Great Results
 
-### Text Watermarks ✨ NEW DEFAULTS
+### Text Watermarks 
 - **Font Size**: **Auto** - Dynamically calculates optimal size based on image dimensions
 - **Opacity**: **85%** for excellent visibility with professional subtlety
 - **Position**: **bottom-right** for professional branding placement
 - **Color**: **White with black stroke** for maximum visibility on any background
 - **Enhanced Features**: Automatic text stroke/outline, subtle drop shadows, bold font variants
 
-### Image Watermarks ✨ NEW DEFAULTS
+### Image Watermarks 
 - **Scale**: **Auto** - Intelligently calculates 15% of image area for perfect proportion
 - **Opacity**: **75%** for professional semi-transparent effect
 - **Position**: **bottom-right** corner for standard placement
